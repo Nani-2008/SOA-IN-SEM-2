@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.ms1.AdditionControllerTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.408 s -- in com.example.ms1.AdditionControllerTest
